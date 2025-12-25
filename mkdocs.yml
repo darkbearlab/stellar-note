@@ -32,13 +32,20 @@ plugins:
   - i18n:
       docs_structure: folder
       languages:
+        # === 繁體中文設定 ===
         - locale: zh-TW
           default: true
           name: 繁體中文
           build: true
+          # 在這裡可以不用特別寫，因為會繼承上面的全域設定
+          
+        # === 英文版設定 (關鍵在這裡！) ===
         - locale: en
           name: English
           build: true
+          # 【這裡就是黑魔法】針對英文版複寫設定
+          site_name: Stellar Note              # 標題變英文
+          site_description: A Fantasy Miniature Game beneath the Broken Sky
 
 # Markdown 語法擴充 (讓規則排版更漂亮)
 markdown_extensions:
