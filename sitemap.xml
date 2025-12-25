@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://darkbearlab.github.io/stellar-note/</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://darkbearlab.github.io/stellar-note/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darkbearlab.github.io/stellar-note/en/"/>
+    </url>
+    <url>
+        <loc>https://darkbearlab.github.io/stellar-note/advanced/</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://darkbearlab.github.io/stellar-note/advanced/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darkbearlab.github.io/stellar-note/en/advanced/"/>
+    </url>
+    <url>
+        <loc>https://darkbearlab.github.io/stellar-note/scenarios/</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://darkbearlab.github.io/stellar-note/scenarios/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darkbearlab.github.io/stellar-note/en/scenarios/"/>
+    </url>
+    <url>
+        <loc>https://darkbearlab.github.io/stellar-note/army/building/</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://darkbearlab.github.io/stellar-note/army/building/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darkbearlab.github.io/stellar-note/en/army/building/"/>
+    </url>
+    <url>
+        <loc>https://darkbearlab.github.io/stellar-note/army/units/</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://darkbearlab.github.io/stellar-note/army/units/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darkbearlab.github.io/stellar-note/en/army/units/"/>
+    </url>
+    <url>
+        <loc>https://darkbearlab.github.io/stellar-note/rules/core/</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://darkbearlab.github.io/stellar-note/rules/core/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darkbearlab.github.io/stellar-note/en/rules/core/"/>
+    </url>
+    <url>
+        <loc>https://darkbearlab.github.io/stellar-note/rules/flow/</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://darkbearlab.github.io/stellar-note/rules/flow/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darkbearlab.github.io/stellar-note/en/rules/flow/"/>
+    </url>
+    <url>
+        <loc>https://darkbearlab.github.io/stellar-note/en/</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darkbearlab.github.io/stellar-note/en/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://darkbearlab.github.io/stellar-note/"/>
+    </url>
+    <url>
+        <loc>https://darkbearlab.github.io/stellar-note/en/advanced/</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darkbearlab.github.io/stellar-note/en/advanced/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://darkbearlab.github.io/stellar-note/advanced/"/>
+    </url>
+    <url>
+        <loc>https://darkbearlab.github.io/stellar-note/en/scenarios/</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darkbearlab.github.io/stellar-note/en/scenarios/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://darkbearlab.github.io/stellar-note/scenarios/"/>
+    </url>
+    <url>
+        <loc>https://darkbearlab.github.io/stellar-note/en/army/building/</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darkbearlab.github.io/stellar-note/en/army/building/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://darkbearlab.github.io/stellar-note/army/building/"/>
+    </url>
+    <url>
+        <loc>https://darkbearlab.github.io/stellar-note/en/army/units/</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darkbearlab.github.io/stellar-note/en/army/units/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://darkbearlab.github.io/stellar-note/army/units/"/>
+    </url>
+    <url>
+        <loc>https://darkbearlab.github.io/stellar-note/en/rules/core/</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darkbearlab.github.io/stellar-note/en/rules/core/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://darkbearlab.github.io/stellar-note/rules/core/"/>
+    </url>
+    <url>
+        <loc>https://darkbearlab.github.io/stellar-note/en/rules/flow/</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://darkbearlab.github.io/stellar-note/en/rules/flow/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://darkbearlab.github.io/stellar-note/rules/flow/"/>
+    </url>
+</urlset>
