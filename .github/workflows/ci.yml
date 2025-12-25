@@ -1,0 +1,21 @@
+name: publish-rules-site
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+      # 安裝必要套件
+      - run: pip install mkdocs-material mkdocs-static-i18n
+      # 建置並部署
+      - run: mkdocs gh-deploy --force
