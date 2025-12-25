@@ -32,7 +32,7 @@ plugins:
   - i18n:
       docs_structure: folder
       languages:
-        - locale: zh
+        - locale: zh-TW
           default: true
           name: 繁體中文
           build: true
