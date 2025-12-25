@@ -1,0 +1,63 @@
+site_name: 星辰筆記 (Stellar Note)
+site_url: https://darkbearlab.github.io/stellar-note/
+site_description: 一款發生在破碎天空之下的中世紀奇幻戰棋遊戲
+site_author: DarkBearLab
+
+theme:
+  name: material
+  language: zh-TW
+  palette:
+    - scheme: slate  # 預設深色模式 (符合破碎天空的氛圍)
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  features:
+    - navigation.tabs        # 頂部導航頁籤
+    - navigation.top         # 回到頂端按鈕
+    - navigation.instant     # 快速換頁
+    - search.highlight       # 搜尋高亮
+    - content.code.copy
+
+# 外掛設定：多語言支援 + 搜尋
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: zh
+          default: true
+          name: 繁體中文
+          build: true
+        - locale: en
+          name: English
+          build: true
+
+# Markdown 語法擴充 (讓規則排版更漂亮)
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+# 導航欄結構
+nav:
+  - 首頁: index.md
+  - 核心規則:
+      - 2. 基礎與擲骰: rules/core.md
+      - 3. 遊戲流程: rules/flow.md
+  - 隊伍與單位:
+      - 4. 組建隊伍: army/building.md
+      - 單位資料庫: army/units.md
+  - 戰場劇本: scenarios.md
+  - 進階規則: advanced.md
